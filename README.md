@@ -12,13 +12,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/sc-mobile.png)
-![Desktop](./images/sc-desktop.png)
+[Mobile](./images/sc-mobile.png)
+[Desktop](./images/sc-desktop.png)
 
 ### Links
 
-
-- [Live Site URL:](https://belalsalah74.github.io/social-proof-section/)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-kCuOY5XYNg)
+- [Live Site URL](https://belalsalah74.github.io/social-proof-section/)
 
 ## Author
 
